@@ -2,7 +2,7 @@
 
 Установка full-stack JS frameworks на на ОС Linux Mint 18.1 Serena (MATE 64-bit)
 
-### Установка Node.js и менеджера пакетов npm
+### Установка серверного фреймворка Node.js и менеджера пакетов npm
 Посмотрев красивый график выхода релизов, был выбран последний релиз Node.js 8
 ![alt text](https://github.com/nodejs/Release/blob/master/schedule.png)
 
@@ -43,3 +43,15 @@ npm --version
  npm --version
  ```
  Установлена версия `npm 5.4.2`
+ 
+ ### Установка клиентского фрейморка Vue.js
+ `npm install vue` 
+ Установлена версия `vue 2.4.4`. Установка локальная, в каталог репозитория JSStudio
+ 
+ ### Установка vue-devtools
+ Для браузера chrome https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
+ Установлена версия `3.1.6`
+  
+ ### Установка сборщика модулей webpack
+ `npm install --save-dev webpack` 
+ Установлена версия `webpack 3.6.0`. Установка локальная, в каталог репозитория JSStudio

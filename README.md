@@ -55,3 +55,10 @@ npm --version
  ### Установка сборщика модулей webpack
  `npm install --save-dev webpack` 
  Установлена версия `webpack 3.6.0`. Установка локальная, в каталог репозитория JSStudio
+ 
+ ### Установка IDE VS Code
+ Источник https://code.visualstudio.com/docs/setup/linux
+ Установлена версия `1.16.1`
+
+### Создание проекта JSFromEditor
+

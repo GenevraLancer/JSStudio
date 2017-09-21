@@ -51,6 +51,10 @@ npm --version
  ### Установка vue-devtools
  Для браузера chrome https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd
  Установлена версия `3.1.6`
+ 
+  ### Установка vue-config
+ `npm install vue-config` 
+ Установлена версия `vue-config 1.0.0`. Установка локальная, в каталог репозитория JSStudio
   
  ### Установка сборщика модулей webpack
  `npm install --save-dev webpack` 

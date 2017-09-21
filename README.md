@@ -44,6 +44,11 @@ npm --version
  ```
  Установлена версия `npm 5.4.2`
  
+
+ ### Создание репозитория JSStudio и инициализация проекта JSStudio с помощью npm
+`npm init`. Инициализация локальная, в каталоге репозитория JSStudio.
+Источник http://weaintplastic.github.io/web-development-field-guide/Development/Frontend_Development/Setting_up_your_project/Setup_Dependency_Managers/Node_Package_Manager/Initialize_NPM_on_a_new_project.html
+ 
  ### Установка клиентского фрейморка Vue.js
  `npm install vue` 
  Установлена версия `vue 2.4.4`. Установка локальная, в каталог репозитория JSStudio
